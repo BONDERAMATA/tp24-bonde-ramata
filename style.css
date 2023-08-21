@@ -1,0 +1,60 @@
+*{
+    margin: 0;  
+      padding: 0;
+      
+      }
+      header{
+     position: fixed;
+     top: 0;
+     left: 0%;
+     padding: 50px 10px;
+     width: 100%;
+     z-index: 1;
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     transition: 0.5s;
+     background-color: rgb(227, 129, 17);
+      }
+      .nav-links{
+    color: #f6f1f1;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 8px 12px;
+    
+    }
+      header .nav a:hover{
+        color: black;
+        border-bottom: #fdfafa;
+      }
+      
+      img{
+        width: 1300px;
+      }
+      .komo{
+        color: #fdfafa;
+        font-size: 30px;
+        text-align: center;
+      }
+      .biba{
+        text-align: center;
+        color: #f6f1f1;
+      }
+      .papa{
+        font-size: 30px;
+        text-align: center;
+      }
+      
+    
+    
+      .mama{
+        text-align: center;
+    font-size: 40px;
+      }
+      .gafar{
+        justify-content: center;
+      }
+      h5{
+        font-size: 50px;
+      }
+      
